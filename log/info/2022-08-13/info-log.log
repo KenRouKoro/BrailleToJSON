@@ -1,0 +1,85 @@
+[2022-08-13 15:10:07.882] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 15:10:07.887] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application
+[2022-08-13 15:10:54.612] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 15:10:54.616] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application
+[2022-08-13 15:12:25.217] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 15:12:25.225] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application
+[2022-08-13 15:40:27.975] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 15:40:27.987] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 15:40:28.590] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 15:46:12.318] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 15:46:12.322] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 15:46:12.768] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 15:48:26.164] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 15:48:26.167] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 15:48:26.547] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 15:48:58.773] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 15:48:58.778] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 15:48:59.210] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 16:06:54.001] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 16:06:54.005] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 16:06:54.495] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 16:12:16.094] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 16:12:16.099] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 16:12:16.499] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 16:13:20.587] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 16:13:20.590] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 16:13:20.910] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 16:22:38.868] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 16:22:38.870] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 16:22:39.210] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 16:24:00.282] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - Font[name=Arial Bold, family=Arial, style=Bold, size=16.0]
+[2022-08-13 16:26:48.031] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - Font[name=Agency FB, family=Agency FB, style=Regular, size=8.0]
+[2022-08-13 16:28:59.623] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - Font[name=Agency FB Bold, family=Agency FB, style=Bold, size=28.0]
+[2022-08-13 16:29:14.066] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - Font[name=Agency FB Bold, family=Agency FB, style=Bold, size=20.0]
+[2022-08-13 16:54:00.132] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 16:54:00.137] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 16:54:00.532] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 16:54:14.723] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=Arial Black,name=Arial Black,style=plain,size=22]
+[2022-08-13 17:34:50.120] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 17:34:50.127] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 17:34:50.661] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 17:34:57.218] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=Arial Narrow,name=Arial Narrow,style=plain,size=28]
+[2022-08-13 17:35:35.252] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=华文楷体,name=华文楷体,style=plain,size=28]
+[2022-08-13 17:35:41.936] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=Agency FB,name=Agency FB,style=bold,size=28]
+[2022-08-13 17:35:45.518] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=Agency FB,name=Agency FB,style=plain,size=11]
+[2022-08-13 17:35:48.943] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=Agency FB,name=Agency FB,style=plain,size=28]
+[2022-08-13 17:35:55.305] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=方正姚体,name=方正姚体,style=bold,size=10]
+[2022-08-13 17:36:14.413] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=华文隶书,name=华文隶书,style=bolditalic,size=36]
+[2022-08-13 17:36:28.455] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 17:36:28.460] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 17:36:28.882] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 17:36:41.537] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=隶书,name=隶书,style=bold,size=36]
+[2022-08-13 17:37:04.290] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 17:37:04.293] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 17:37:04.633] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 17:37:15.144] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=方正姚体,name=方正姚体,style=bolditalic,size=24]
+[2022-08-13 17:46:08.752] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 17:46:08.755] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 17:46:09.052] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 17:46:30.862] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=幼圆,name=幼圆,style=italic,size=24]
+[2022-08-13 17:58:17.214] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 17:58:17.217] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 17:58:17.518] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 17:58:21.835] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=Arial Narrow,name=Arial Narrow,style=plain,size=28]
+[2022-08-13 17:58:30.950] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=华文楷体,name=华文楷体,style=plain,size=28]
+[2022-08-13 17:58:58.892] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 17:58:58.895] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 17:58:59.194] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 17:59:10.449] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=华文细黑,name=华文细黑,style=plain,size=28]
+[2022-08-13 17:59:21.259] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=华文细黑,name=华文细黑,style=bold,size=36]
+[2022-08-13 18:00:18.819] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 18:00:18.822] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 18:00:19.096] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 18:00:36.575] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=幼圆,name=幼圆,style=italic,size=42]
+[2022-08-13 18:05:36.039] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 18:05:36.043] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 18:05:36.383] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 18:06:02.539] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=方正姚体,name=方正姚体,style=plain,size=50]
+[2022-08-13 18:08:11.790] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - System Loading.
+[2022-08-13 18:08:11.793] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Init Flatlaf.
+[2022-08-13 18:08:12.100] [main] [INFO ] [cn.korostudio.brailletojson.main.Main] - Load JavaFX Application.
+[2022-08-13 18:08:22.164] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=Agency FB,name=Agency FB,style=plain,size=12]
+[2022-08-13 18:08:28.434] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=方正姚体,name=方正姚体,style=plain,size=10]
+[2022-08-13 18:08:50.552] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=华文隶书,name=华文隶书,style=plain,size=16]
+[2022-08-13 18:09:06.086] [JavaFX Application Thread] [INFO ] [cn.korostudio.brailletojson.view.main.MainView] - java.awt.Font[family=华文楷体,name=华文楷体,style=plain,size=22]
